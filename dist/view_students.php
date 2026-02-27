@@ -40,7 +40,7 @@ include 'header.php';
 
     <section class="content-header">
         <div class="container-fluid">
-            <h3 class="mb-2">Student Management</h3>
+            <h3 class="mb-2">Student View </h3>
         </div>
     </section>
 
@@ -50,7 +50,7 @@ include 'header.php';
             <div class="card card-outline card-primary shadow">
 
                 <div class="card-header d-flex justify-content-between align-items-center">
-                    <h3 class="card-title">Liiska Ardayda (Data Table)</h3>
+                    <h3 class="card-title">Data Table</h3>
                     <div class="card-tools ms-auto">
                         <a href="student_registration.php" class="btn btn-primary btn-sm">
                             <i class="fas fa-plus"></i> Add New Student
@@ -68,8 +68,8 @@ include 'header.php';
                             <thead class="table-dark text-nowrap">
                                 <tr>
                                     <th>ID</th>
-                                    <th>Magaca</th>
-                                    <th>Kulliyadda</th>
+                                    <th>Name</th>
+                                    <th>Feculty</th>
                                     <th>Phone</th>
                                     <th class="text-center">Action</th>
                                 </tr>

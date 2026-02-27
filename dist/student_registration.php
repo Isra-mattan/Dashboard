@@ -26,14 +26,14 @@
                             <div class="col-md-6">
                                 <div class="form-group">
                                     <label>Full Name</label>
-                                    <input type="text" name="full_name" class="form-control" placeholder="Enter full name" required>
+                                    <input type="text" name="full_name" class="form-control" placeholder="" required>
                                 </div>
                             </div>
 
                             <div class="col-md-6">
                                 <div class="form-group">
                                     <label>Student ID</label>
-                                    <input type="text" name="student_id" class="form-control" placeholder="Enter student ID" required>
+                                    <input type="text" name="student_id" class="form-control" placeholder="" required>
                                 </div>
                             </div>
 
@@ -58,7 +58,7 @@
                             <div class="col-md-4">
                                 <div class="form-group">
                                     <label>Place of Birth</label>
-                                    <input type="text" name="place_of_birth" class="form-control" placeholder="Enter place of birth">
+                                    <input type="text" name="place_of_birth" class="form-control" placeholder="">
                                 </div>
                             </div>
 
@@ -78,28 +78,23 @@
                             <div class="col-md-6">
                                 <div class="form-group">
                                     <label>Student Phone</label>
-                                    <input type="tel" name="student_phone" class="form-control" placeholder="061XXXXXXX">
+                                    <input type="tel" name="student_phone" class="form-control" placeholder="">
                                 </div>
                             </div>
 
-                            <div class="col-md-6">
-                                <div class="form-group">
-                                    <label>Email Address</label>
-                                    <input type="email" name="email" class="form-control" placeholder="example@email.com">
-                                </div>
-                            </div>
+                            
 
                             <div class="col-md-6">
                                 <div class="form-group">
                                     <label>Parent Name</label>
-                                    <input type="text" name="parent_name" class="form-control" placeholder="Enter parent name">
+                                    <input type="text" name="parent_name" class="form-control" placeholder="">
                                 </div>
                             </div>
 
                             <div class="col-md-6">
                                 <div class="form-group">
                                     <label>Parent Phone</label>
-                                    <input type="tel" name="parent_phone" class="form-control" placeholder="Enter parent phone">
+                                    <input type="tel" name="parent_phone" class="form-control" placeholder="">
                                 </div>
                             </div>
 
@@ -119,14 +114,14 @@
                             <div class="col-md-4">
                                 <div class="form-group">
                                     <label>Faculty</label>
-                                    <input type="text" name="faculty" class="form-control" placeholder="CS, Medicine, etc.">
+                                    <input type="text" name="faculty" class="form-control" placeholder="">
                                 </div>
                             </div>
 
                             <div class="col-md-4">
                                 <div class="form-group">
                                     <label>Department</label>
-                                    <input type="text" name="department" class="form-control" placeholder="Enter department">
+                                    <input type="text" name="department" class="form-control" placeholder="">
                                 </div>
                             </div>
 
